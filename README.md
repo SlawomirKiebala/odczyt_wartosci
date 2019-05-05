@@ -1,0 +1,1 @@
+# odczyt_wartosci
